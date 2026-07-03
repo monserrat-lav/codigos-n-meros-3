@@ -1,6 +1,6 @@
 simulador de cajero digital
 
-Este es un sistema bancario interactivo por computadora que desarrollé en mi segundo día aprendiendo a programar en Python a los 15 años. El proyecto combina lógica de seguridad, control de flujos y gestión de datos en tiempo real.
+Este es un sistema bancario interactivo por computadora que desarrolle en mi segundo día aprendiendo a programar en Python a los 15 años. El proyecto combina lógica de seguridad, control de flujos y gestión de datos en tiempo real.
 
 Características del Programa
 
